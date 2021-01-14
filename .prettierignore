@@ -1,0 +1,9 @@
+/node_modules
+**/assets
+
+*.json
+*.html
+*.scss
+*.md
+
+.prettierrc
